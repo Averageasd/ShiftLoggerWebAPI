@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "shiftLoggerAPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
